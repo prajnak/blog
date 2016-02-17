@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            The Talon Blog
 tagline:          'Our journey to improve drone deliveries'
 url:              http://hyde.getpoole.com
-baseurl:          /blog/
+baseurl:          "/blog"
 
 author:
   name:           'Talon Team'
