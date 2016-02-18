@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            The Talon Blog
+title:            Talon
 tagline:          'Our journey to improve drone deliveries'
 url:              http://hyde.getpoole.com
 baseurl:          "/blog"
