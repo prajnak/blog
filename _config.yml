@@ -64,21 +64,3 @@ prose:
               value: sebastian
             - name: "Craig Vandenburg"
               value: craig
-      - name: "categories"
-        field:
-          element: "multiselect"
-          label: "Add categories"
-          placeholder: "Choose categories"
-          value: personal
-          options:
-            - name: "Personal"
-              value: personal
-            - name: "Interesting"
-              value: interesting
-            - name: "DevOps"
-              value: devops
-            - name: "Development"
-              value: development
-            - name: "Startups"
-              value: startups
-          alterable: true
