@@ -49,21 +49,21 @@ prose:
           label: "Title"
           element: "text"
           value: "An Awesome Headline!"
-      - name: "description"
-        field:
-          element: "text"
-          label: "Description"
-          placeholder: "Enter Post Description"
-      - name: "headline"
-        field:
-          element: "text"
-          label: "beadline"
-          placeholder: "Enter Post Headline"
-      - name: "modified"
-        field:
-          element: "text"
-          label: "Has this page been modified?"
-          placeholder: "YYYY-MM-DD"
+      - name: "author"
+        field: 
+          element: "select"
+          label: "Add Author"
+          placeholder: "Prajna Kandarpa"
+          value: praj
+          options:
+            - name: "Prajna Kandarpa"
+              value: praj
+            - name: "Wesley Groom"
+              value: wesley
+            - name: "Sebastian Mocny"
+              value: sebastian
+            - name: "Craig Vandenburg"
+              value: craig
       - name: "categories"
         field:
           element: "multiselect"
@@ -82,23 +82,3 @@ prose:
             - name: "Startups"
               value: startups
           alterable: true
-      - name: "imagefeature"
-        field:
-          element: "text"
-          label: "Featured Image"
-          placeholder: "somefile.jpg"
-      - name: "mathjax"
-        field:
-          element: "checkbox"
-          label: "MathJax"
-          value: false
-      - name: "featured"
-        field:
-          element: "checkbox"
-          label: "Featured?"
-          value: false
-      - name: "comments"
-        field:
-          element: "checkbox"
-          label: "Comments"
-          value: false
