@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
 <p class="message">
-  This blog is maintained by <a href="https://prajis.me">Praj</a>.
+  This blog is maintained by <a href="https://prajis.me">Praj</a>. I'm a recent university graduate that's backpacking through BC, Canada
 </p>
  
 ## Setup
