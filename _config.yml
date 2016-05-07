@@ -7,18 +7,18 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Talon
-tagline:          'Our journey to improve drone deliveries'
-url:              http://hyde.getpoole.com
+title:            Prajventures
+tagline:          'Praj''s adventures'
+url:              http://prajis.me/blog
 baseurl:          "/blog"
 
 author:
-  name:           'Talon Team'
-  url:            https://github.com/talonco
+  name:           'Praj' 
+  url:            https://github.com/prajnak
 
 paginate:         5
 gems:
-  - jekyll-paginate
+  - jekyll-paginate 
   - redcarpet
   - jekyll-gist
   - pygments.rb
@@ -26,14 +26,14 @@ gems:
 version:          2.1.0
 
 github:
-  repo:           https://github.com/talonco/blog
+  repo:           https://github.com/prajnak/blog
 
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://talonco.github.io/blog'
+  root url: '_posts'
+  siteurl: 'http://prajnak.github.io/blog'
   media: 'images'
   metadata:
-    _posts:
+    _posts: 
       - name: "published"
         field:
           label: "Published"
@@ -58,9 +58,3 @@ prose:
           options:
             - name: "Prajna Kandarpa"
               value: praj
-            - name: "Wesley Groom"
-              value: wesley
-            - name: "Sebastian Mocny"
-              value: sebastian
-            - name: "Craig Vandenburg"
-              value: craig

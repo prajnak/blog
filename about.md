@@ -4,10 +4,9 @@ title: About
 ---
 
 <p class="message">
-  This blog is maintained by the people behind <a href="http://talonco.github.io">Talon</a>.
+  This blog is maintained by <a href="https://prajis.me">Praj</a>.
 </p>
-We talk about challenges faced during mechanical design, communication and radio system setup and manufacturing issues and how we overcame the
-
+ 
 ## Setup
 
 Some fun facts about the setup of this project include:
