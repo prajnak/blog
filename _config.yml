@@ -31,7 +31,7 @@ github:
 prose:
   root url: '_posts'
   siteurl: 'http://prajnak.github.io/blog'
-  media: 'images'
+  media: '_images'
   metadata:
     _posts: 
       - name: "published"
