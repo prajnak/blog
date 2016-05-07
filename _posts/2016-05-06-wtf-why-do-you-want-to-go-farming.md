@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Wtf why do you want to go farming?"
 author: praj
 ---
