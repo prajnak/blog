@@ -14,7 +14,7 @@ baseurl:          "/blog"
 
 author:
   name:           'Praj' 
-  url:            https://github.com/prajnak
+  url:            https://prajis.me
 
 paginate:         5
 gems:
