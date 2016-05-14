@@ -3,7 +3,6 @@ layout: post
 published: false
 title: Day 1 in Saanichton
 ---
-## Day 1
 Got on a ferry to Swartz Bay. Here’s a view from the ferry to Vancouver Island.
 Took a bus to the prairie inn bar and waited for Rachel to come pick me up since my phone stopped working and I was too tired to walk for 50 minutes. Made conversation with the bartender in the meantime and she asked me to check out buzz Victoria for the latest events etc. Rachel picks me up, takes me to the farm and introduced me to her partner Grant and kids Elias and Jade, who were playing Magic the gathering with a bunch of friends. 
 
