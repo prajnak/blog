@@ -1,17 +1,8 @@
 ---
 layout: post
 published: false
-title: Vancouver and Day 1 in Saanichton
+title: Day 1 in Saanichton
 ---
-## Vancouver
-
-I spent a couple days in Vancouver with Jackie, who I first met in Peterborough coincidentally and Ankit. Checked out Stanley Park on bike with Jackie on the first day. It's so pretty here!
-![IMG_0226.JPG](../_images/IMG_0226.JPG)
-
-Then I went roaming around town the next day and went to the Contemporary Art Gallery
-![IMG_0246.JPG](../_images/IMG_0246.JPG)
-
-
 ## Day 1
 Got on a ferry to Swartz Bay. Here’s a view from the ferry to Vancouver Island.
 Took a bus to the prairie inn bar and waited for Rachel to come pick me up since my phone stopped working and I was too tired to walk for 50 minutes. Made conversation with the bartender in the meantime and she asked me to check out buzz Victoria for the latest events etc. Rachel picks me up, takes me to the farm and introduced me to her partner Grant and kids Elias and Jade, who were playing Magic the gathering with a bunch of friends. 
