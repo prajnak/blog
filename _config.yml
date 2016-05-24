@@ -1,60 +1,59 @@
-# Dependencies
-markdown:        kramdown
-highlighter:      rouge
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: false
-
-# Setup
-title:            Prajventures
-tagline:          'Praj''s adventures'
-url:              http://prajis.me/blog
-baseurl:          "/blog"
-
-author:
-  name:           'Praj' 
-  url:            https://prajis.me
-
-paginate:         5
+# Build settings
 gems:
-  - jekyll-paginate 
-  - redcarpet
-  - jekyll-gist
-  - pygments.rb
-# Custom vars
-version:          2.1.0
+  - jemoji
+  - jekyll-paginate
 
-github:
-  repo:           https://github.com/prajnak/blog
+# Site settings
+title:            Prajventures
+description: > # this means to ignore newlines until "email:"
+    I mostly rant about life
 
-prose:
-  root url: '_posts'
-  siteurl: 'http://prajnak.github.io/blog'
-  media: '_images'
-  metadata:
-    _posts: 
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-      - name: "layout"
-        field:
-          element: "hidden"
-          label: "Layout"
-          value: "post"
-      - name: "title"
-        field:
-          label: "Title"
-          element: "text"
-          value: "An Awesome Headline!"
-      - name: "author"
-        field: 
-          element: "select"
-          label: "Add Author"
-          placeholder: "Prajna Kandarpa"
-          value: praj
-          options:
-            - name: "Prajna Kandarpa"
-              value: praj
+email: spspkand@uwaterloo.ca
+#blog logo
+logo: "/assets/images/author.jpg"
+# blog cover
+cover: "/assets/images/cover.jpg"
+
+name: 'Prajna Kandarpa'
+author: 'Prajna Kandarpa'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "https://prajis.me" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@aqjq'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/aqjq
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon: lastfm	
+    url:	www.last.fm/user/prahladk
+    desc: Spy on my music
+    share_url: 
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/prajnak
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:

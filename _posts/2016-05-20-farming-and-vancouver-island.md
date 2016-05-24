@@ -1,8 +1,12 @@
 ---
 layout: post
+title:  "Farming"
+date:   2016-05-20
+categories: travel feature
 published: true
-title: Farming
-author: ""
+tags: featured
+image: /assets/images/p1.jpg
+image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
 I've had an amazing time here in Central Saanich, Vancouver Island for the past 10 days on the [Three Oaks Farm](http://www.peninsulanewsreview.com/news/304323141.html). I live a pretty simple life in a tent outside and share my meals with everyone else on the farm - Rachel, who owns the farm and is part of a three person organic produce company called [Saanich Organics](http://saanichorganics.com/about/), Lauren, Rachel's farm apprentice, and Stacee, an employee on the farm for about 4 years. Everyone has their own cozy living space around the farm, which is really beautiful with tall trees, blue skies and rolling green fields around.
 ![IMG_0615.JPG](https://raw.githubusercontent.com/prajnak/blog/gh-pages/_images/IMG_0615.JPG)
