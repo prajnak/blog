@@ -2,7 +2,7 @@
 layout: post
 title: Farming
 date: {}
-categories: travel feature
+categories: null
 published: true
 tags: featured
 image: /blog/assets/images/p1.jpg
