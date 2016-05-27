@@ -13,7 +13,7 @@ email: spspkand@uwaterloo.ca
 logo: "/blog/assets/images/author.jpg"
 # blog cover
 cover: "/blog/assets/images/cover.JPG"
-
+permalink: pretty
 name: 'Praj'
 author: 'Prajna Kandarpa'
 author_image: "/blog/assets/images/author.jpg"
