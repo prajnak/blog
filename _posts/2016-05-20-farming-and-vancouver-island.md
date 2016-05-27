@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Farming
-date: {}
-categories: null
 published: true
 tags: featured
 image: /blog/assets/images/p1.jpg
