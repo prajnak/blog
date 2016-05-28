@@ -52,7 +52,13 @@
           </div>
           <a name="topofpage"></a>
           {{content}}
-        </section>
+       {% include facebook-init.html %}
+       {% if page.fbcomments %}
+       <hr/>
+       <h4>Comments</h4>
+       <div class="fb-comments" data-href="https://prajis.me/blog{{ page.url }}" data-colorscheme="dark" data-num-posts="4" data-width="706"></div>
+       </section>
+  {% endif %}
         <footer class="post-footer">
           <section class="share">
             {% for social in site.social %}
