@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Farming
-published: false
+published: true
 tags: featured
 image: /blog/assets/images/p1.jpg
 ---
