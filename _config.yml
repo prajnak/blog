@@ -38,7 +38,7 @@ social:
     share_link: "&amp;url="
 
   - icon: lastfm	
-    url:	www.last.fm/user/prahladk
+    url:  http://last.fm/user/prahladk
     desc: Spy on my music
     share_url: 
     share_title: ?t=
