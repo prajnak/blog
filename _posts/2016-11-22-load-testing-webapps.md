@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+tags: featured
+image: /blog/assets/images/hammeracmere-1024x433.jpg
+fbcomments: 'yes'
 ---
 # Intro
 
@@ -73,4 +77,3 @@ Shortest transaction:	        0.06
 
 ## Conclusion
 Hope this helps you create more resilient web infrastructure.
-
