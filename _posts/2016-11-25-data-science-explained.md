@@ -13,6 +13,7 @@ applications for a multitude of computer vision processing tasks.
 
 Someone once explained to me that the best way to understand a subject is to try
 explain it to other people. Reasons why this works include:
+
 - You learn everything you thought you understood but didn't really
   understand cause if you didn't really understand it the first time, you'll
   end up making no sense to the person you're explaining this to
