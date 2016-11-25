@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+tags: agriculture, farming, bc
 title: "Wtf why do you want to go farming?"
 author: praj
 ---

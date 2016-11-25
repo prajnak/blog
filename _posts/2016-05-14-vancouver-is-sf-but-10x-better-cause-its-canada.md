@@ -1,6 +1,8 @@
 ---
 layout: post
 published: true
+author: praj
+tags: bc, vancity
 title: "Vancouver is SF but 10x better cause its Canada!"
 ---
 I spent a couple days in Vancouver with Jackie, who I first met in Peterborough coincidentally and Ankit. Checked out Stanley Park on bike with Jackie on the first day. It's so pretty here!

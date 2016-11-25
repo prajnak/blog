@@ -2,6 +2,7 @@
 layout: post
 title: Farming
 published: true
+author: praj
 tags: featured
 image: /blog/assets/images/p1.jpg
 fbcomments: yes
